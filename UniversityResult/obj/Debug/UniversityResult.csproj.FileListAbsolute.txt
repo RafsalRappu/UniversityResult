@@ -1,0 +1,10 @@
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\bin\Debug\UniversityResult.exe.config
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\bin\Debug\UniversityResult.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\bin\Debug\UniversityResult.pdb
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\obj\Debug\UniversityResult.csprojAssemblyReference.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\obj\Debug\UniversityResult.Form1.resources
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\obj\Debug\UniversityResult.Properties.Resources.resources
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\obj\Debug\UniversityResult.csproj.GenerateResource.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\obj\Debug\UniversityResult.csproj.CoreCompileInputs.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\obj\Debug\UniversityResult.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\UniversityResult\UniversityResult\obj\Debug\UniversityResult.pdb
